@@ -8,7 +8,7 @@ I'm a 16 year old developer from **Honduras** 🇭🇳, focused on bridging the 
  - Tools & Deployment: Git, VS Code, Netlify
 
 ### Stuff I Built
-(https://github.com/SebDevHN/Fav-JJK-Characters)
+[My Favorite JJK Characters](https://github.com/SebDevHN/Fav-JJK-Characters)
 
 ###  Connect with Me
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/SebDevHN)
