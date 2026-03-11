@@ -2,7 +2,7 @@
 
 I am a 16 year old student from Honduras 🇭🇳 just trying to learn how to code and design.
 
-I haved coded websites for my school and do my own arduino projects from scratch.
+I haved coded websites for my school and have done my own arduino projects from scratch.
 
 
 
