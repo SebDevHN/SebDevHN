@@ -1,14 +1,20 @@
 # Hi, I'm Sebastian (SebDevHN) 👋
 
-I'm a 16-year-old developer from Honduras focused on **bridging the gap between clean code and beautiful web interfaces.**
+I'm a 16-year-old developer from **Honduras** 🇭🇳, focused on bridging the gap between clean code and beautiful web interfaces.
 
 ### 🛠 Tech Stack
 - **Web:** HTML5, CSS3, JavaScript, Tailwind CSS
 - **Hardware:** Arduino, C++, Automated Systems
 - **Tools:** Git, VS Code, Netlify
 
-### 🚀 Projects
-- **School Web Projects:** Custom sites built for educational environments.
-- **Hardware Automation:** Arduino-based solutions for real-world problems.
+### 🚀 What I'm Working On
+- 🌐 Building modern, premium-feel web interfaces.
+- 🤖 Developing automated systems using Arduino and IoT.
+- 🎓 Coding utility tools for my school environment.
 
-[Website](https://sebdevhn.netlify.app/) | [X (Twitter)]((https://x.com/SebDevHN))
+### 🤝 Connect with Me
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/SebDevHN)
+[<img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://sebdevhn.netlify.app/)
+
+---
+*“Focusing on every detail that makes a site feel premium.”*
