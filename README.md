@@ -1,22 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sebastian (SebDevHN) 👋
 
-I am a 16 year old student from Honduras 🇭🇳 just trying to learn how to code and design.
+I'm a 16-year-old developer from Honduras focused on **bridging the gap between clean code and beautiful web interfaces.**
 
-I haved coded websites for my school and have done my own arduino projects from scratch.
+### 🛠 Tech Stack
+- **Web:** HTML5, CSS3, JavaScript, Tailwind CSS
+- **Hardware:** Arduino, C++, Automated Systems
+- **Tools:** Git, VS Code, Netlify
 
+### 🚀 Projects
+- **School Web Projects:** Custom sites built for educational environments.
+- **Hardware Automation:** Arduino-based solutions for real-world problems.
 
-
-<!--
-**SebDevHN/SebDevHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://sebdevhn.netlify.app/) | [X (Twitter)]((https://x.com/SebDevHN))
