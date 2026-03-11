@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a 16 year old student from Honduras 🇭🇳 just trying to learn code
+
 <!--
 **SebDevHN/SebDevHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
