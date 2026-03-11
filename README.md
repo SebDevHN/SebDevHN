@@ -4,7 +4,7 @@ I'm a 16 year old developer from **Honduras** 🇭🇳, focused on bridging the 
 
 ###  Tech Stack
 - **Web:** HTML5, CSS3, JavaScript, Tailwind CSS
-- **Hardware:** Arduino, C++, Automated Systems
+- **Hardware:** Arduino, C++, Python
 - **Tools:** Git, VS Code, Netlify
 
 ###  What I'm Working On
