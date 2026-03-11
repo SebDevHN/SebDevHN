@@ -3,6 +3,9 @@
 I am a 16 year old student from Honduras 🇭🇳 just trying to learn code
 
 I haved coded websites for my school and do my own arduino projects from scratch.
+
+
+
 <!--
 **SebDevHN/SebDevHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
