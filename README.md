@@ -11,4 +11,4 @@ I'm a 16-year-old developer from Honduras focused on **bridging the gap between 
 - **School Web Projects:** Custom sites built for educational environments.
 - **Hardware Automation:** Arduino-based solutions for real-world problems.
 
-[Website](https://sebdevhn.netlify.app/) | [X (Twitter)]((https://x.com/SebDevHN))
+[Website](https://sebdevhn.netlify.app/) | [X (Twitter)]([your-link](https://x.com/SebDevHN))
