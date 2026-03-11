@@ -3,9 +3,9 @@
 I'm a 16 year old developer from **Honduras** 🇭🇳, focused on bridging the gap between clean code and beautiful web interfaces.
 
 ###  Tech Stack
- - Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS
- - Scripting & Logic:** Python, Automated Workflows
- - Tools & Deployment:** Git, VS Code, Netlify
+ - Frontend: HTML5, CSS3, JavaScript, Tailwind CSS
+ - Scripting & Logic: Python, Automated Workflows
+ - Tools & Deployment: Git, VS Code, Netlify
 
 ###  What I'm Working On
 Building modern, premium feel web interfaces.
