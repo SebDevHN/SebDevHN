@@ -17,4 +17,4 @@ Coding utility tools for my school environment.
 [<img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://sebdevhn.netlify.app/)
 
 ---
-*"Throughout Heaven and Earth, I alone am the honored one"*
+*"Throughout Heaven and Earth, I alone am the honored one"* - Satoru Gojo
